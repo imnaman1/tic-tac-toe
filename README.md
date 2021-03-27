@@ -1,6 +1,6 @@
 # tic_tac_toe
 
-A new Flutter application.
+Minimalist Tic-Tac-Toe using Flutter.
 
 ## Getting Started
 
